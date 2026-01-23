@@ -12,6 +12,4 @@ fun main() {
 
     val employeeCount = 1999
     println(employeeCount)
-
-
 }
