@@ -7,9 +7,8 @@ fun main() {
     println(orderCount)
     println(thanksMessage)
 
-//    val employeeCount = 2000
+    var employeeCount = 2000
 //    println(employeeCount)
-
-    val employeeCount = 1999
+    employeeCount = 1999
     println(employeeCount)
 }
