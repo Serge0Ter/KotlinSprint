@@ -10,6 +10,6 @@ fun main() {
 }
 
 fun buff(ore: Int): Int {
-    val buffOre = 0.2
-    return (ore * buffOre).toInt()
+    val percent = 20
+    return (ore * percent / 100).toInt()
 }
