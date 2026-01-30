@@ -13,23 +13,4 @@ fun main() {
     println(startPoint)
     println(endPoint)
     println(numberMove)
-//      Нет функции которая это сделает короче и красивее?)
-//
-//    for ((index, move) in moveAsSplit.withIndex()) {
-//        when (index) {
-//            0 -> {
-//                val point = move.split("-")
-//                val startPoint = point[0]
-//                val endPoint = point[1]
-//                println(startPoint)
-//                println(endPoint)
-//            }
-//
-//            1 -> {
-//                val numberMove = move.toInt()
-//                println(numberMove)
-//            }
-//        }
-//    }
-
 }
